@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
-    description: 'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+    title: 'Brazilian Jiu-Jitsu Lifestlye Academy',
+    description: 'The St. Louis and Metro East Area premier school to learn the gentle art of Brazilian Jiu-Jitsu coached by "Brazilian" Mike Rethmeyers.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
